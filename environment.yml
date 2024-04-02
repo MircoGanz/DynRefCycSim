@@ -1,0 +1,16 @@
+name:  Dynamic-Refrigeration-Cycle-Simulation
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - CoolProp
+  - ipywidgets
+  - pathlib
+  - scipy
+  - IPython
